@@ -1,5 +1,14 @@
 .DS_Store
 
+# Datasets, outputs etc.
+*.csv
+*.gz
+*.zst
+*.zip
+*.parquet
+*.arrow
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
