@@ -1,3 +1,6 @@
+# Saved models
+models/
+
 # Datasets
 data/
 *.csv
