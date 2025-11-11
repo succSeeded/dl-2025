@@ -4,6 +4,7 @@ __MACOSX
 
 # Saved models
 models/
+tmp/
 
 # Datasets
 data/
